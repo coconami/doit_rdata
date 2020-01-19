@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 85,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 1,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 85,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "C:/work/ch03/ch03_1_variable.r",
+                "state" : 1,
+                "type" : 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578811587279.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8567BF0D",
+    "lastKnownWriteTime" : 8028074750225051768,
+    "last_content_update" : 1578811587279,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "542132ED",
+        "caption" : "df_excel",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_excel&cache_key=542132ED",
+        "displayedObservations" : "20",
+        "environment" : "",
+        "expression" : "df_excel",
+        "object" : "df_excel",
+        "preview" : "0",
+        "totalObservations" : "20",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

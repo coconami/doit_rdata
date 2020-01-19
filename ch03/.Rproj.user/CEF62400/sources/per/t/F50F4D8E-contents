@@ -1,0 +1,41 @@
+setwd("C:/work/ch03")
+getwd()
+a=1
+b=2
+c="hello world"
+a=12
+c=a+b :
+a=1a
+c=a+b :
+1
+a=1
+b=2
+c="hello world"
+a=12
+c=a+b ;
+c=<-a+b;
+c<-a+b
+c
+c<-a+b;
+#######################
+# project ch03
+######################################
+# project ch03 ch03_1_variable.r
+#
+a=1
+b=2
+c="hello world"
+c<-a+b;
+c
+a=12
+c=a+b;
+c
+######################################
+# project ch03 ch03_1_variable.r
+#
+######################################
+# project ch03 ch03_1_variable.r
+#
+######################################
+# project ch03 ch03_1_variable.r
+#

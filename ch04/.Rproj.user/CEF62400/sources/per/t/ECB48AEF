@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578811580359.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ECB48AEF",
+    "lastKnownWriteTime" : 8315178114391286304,
+    "last_content_update" : 1578811580359,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "25C191BB",
+        "caption" : "df_midterm",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_midterm&cache_key=25C191BB",
+        "displayedObservations" : "3",
+        "environment" : "",
+        "expression" : "df_midterm",
+        "object" : "df_midterm",
+        "preview" : "0",
+        "totalObservations" : "3",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
